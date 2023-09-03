@@ -1,7 +1,8 @@
 ### Hi friends👋 I'm Abhijeet
 from India.
 - 🌱 I’m currently learning Web Developement
-- 🤓 Want to explore Open Source 
+- 🤓 Want to explore Open Source
+- 📧 You can connect with me at 𝕏/Twitter
 
 <!--
 **AbhijeetPanigrahi/AbhijeetPanigrahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
