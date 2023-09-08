@@ -1,5 +1,5 @@
 ### Hi friends👋 I'm Abhijeet
-from India.
+
 - 🌱 I’m currently learning Web Developement
 - 🤓 Want to explore Open Source
 - 📧 You can connect with me at 𝕏/Twitter
