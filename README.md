@@ -25,5 +25,5 @@ Here are some ideas to get you started:
    src="https://github-readme-stats.vercel.app/api?username=abhijeetpanigrahi&show_icons=true&theme=tokyonight" 
 />
 
-[![An image of @abhijeetpanigrahi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeetpanigrahi)](https://holopin.io/@abhijeetpanigrahi)
+
     
