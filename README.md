@@ -1,6 +1,6 @@
 ## Hi👋 I'm Abhijeet Panigrahi
 
-- 🌱 Currently Data Science for AI/ML
+- 🌱 Currently Learning Data Science for AI/ML
 - 🤓 2-3 DSA problems every day 
 - 📧 Connect here :
   
