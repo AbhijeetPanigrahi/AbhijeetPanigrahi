@@ -1,7 +1,7 @@
 ## Hi👋 I'm Abhijeet Panigrahi
 
-- 🌱 Currently learning Backend
-- 🤓 Exploring AI/ML
+- 🌱 Currently Data Science for AI/ML
+- 🤓 2-3 DSA problems every day 
 - 📧 Connect here :
   
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/A_Panigrahi23) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-panigrahi-211383294/)
